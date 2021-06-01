@@ -38,4 +38,5 @@ This Item is protected by copyright and/or related rights. You are free to use t
 Access Condition comes from [rightsstatment.org](http://rightsstatements.org/vocab/InC/1.0/)
 
 ## Resources
+For more information visit the [Nancy Lewis Collection](https://archives.colorado.edu/repositories/2/resources/701) at the CU Boulder ArchivesSpace.
 ## Notes
